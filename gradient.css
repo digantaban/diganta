@@ -1,0 +1,61 @@
+#main{
+    border: 2px solid red;
+    padding: 5px;
+}
+#diganta{
+    border: 1px solid green;
+    background-image: linear-gradient(red,blue);
+    height: 200px;
+    width: 200px;
+
+}
+#tiyasa{ border: 1px solid rgb(0, 19, 128);
+background-image: radial-gradient(yellow,purple,yellow,blue,red);
+    height: 200px;
+    width: 200px;
+
+}
+#ronaldo{ margin-left: 500px;
+    border: 1px solid rgb(0, 128, 85);
+background-image: linear-gradient(red,yellow,blue,green) ;    height: 200px;
+    width: 200px;
+}
+
+#notmain{
+    display: inline-block;
+    padding: 59px;
+
+}
+#first{height: 400px;
+    width: 200px;
+    background-image: repeating-radial-gradient(red,black);
+
+}
+
+
+#second{
+    height: 400px;
+    width: 200px;
+    background-image: linear-gradient( yellow,green
+    ,blue,red);
+}
+#third{ height: 800px;
+    width: 260px;
+background-image: repeating-linear-gradient(red,blue,brown,green,yellow);
+margin-left bottom: 600px;: 800px;
+
+}
+
+
+#sera{
+    border: 2px solid red;
+}
+
+
+
+
+
+
+
+
+
