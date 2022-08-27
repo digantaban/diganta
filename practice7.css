@@ -1,0 +1,51 @@
+.dig{
+   margin-top: 2px;
+    padding: 2px;
+    border: 8px solid black;
+    text-align: center;
+    background: linear-gradient(grey,black,);
+}
+.image{
+    padding-left: 40px;
+
+}
+#main{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,248,0.8519782913165266) 50%, rgba(252,176,69,1) 100%);
+  
+}
+.subhajit { 
+    display: flex;
+    border: 2px solid black;
+    height: 700px;
+    width: 80px;
+position: relative;
+bottom: 710px;
+
+
+background: rgb(214,0,19);
+background: linear-gradient(140deg, rgba(214,0,19,1) 21%, rgba(226,30,0,0.5718662464985995) 78%, rgba(143,97,94,1) 92%);
+}
+button{display: flex: ; 
+    height: 25px;
+    width: 70px;
+    position: relative;
+    :left 
+cursor: pointer;}
+    #search{
+        position: relative;
+        bottom: 1410px;
+        left: 1160px;
+    }
+#textcolour{ font-family: Arial, Helvetica, sans-serif;
+font-style: italic;
+font-family: cursive;
+    color: aqua;
+}
+.subhajit:hover {
+    background-color: rgb(0, 0, 0);}
+    button:hover{
+        background-color: red;
+    }
+.dig:hover{
+    background-color: palevioletred;}
